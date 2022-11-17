@@ -1,20 +1,20 @@
-## Hello, I'm Blake    <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="30px"><br/> 
+## Hello, I'm Blake    <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="30px"><br> 
 
-### Languages and Tools:<br />
+### Languages and Tools:<br>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &emsp; ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &emsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &emsp; ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-<br />
+<br><br>
+
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,styledcomponents,js,react,redux,php,laravel,mysql,nodejs,express,mongo,mongoose)](https://github.com/blakejohns5)
-
 [![My Skills](https://skillicons.dev/icons?i=git,firebase,vite,figma)](https://github.com/blakejohns5)
 
 
 
-<br />
+<br>
 
-**Connect with me:**<br/>
+**Connect with me:**<br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blakejohns5/)
 
 
