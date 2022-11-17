@@ -6,7 +6,7 @@
 
 <br />
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,styledcomponents,js,react,redux,php,laravel,mysql,nodejs,express,mongo,mongoose)](https://github.com/blakejohns5)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,styledcomponents,js,react,redux,php,laravel,mysql,nodejs,express,mongo,mongoose)](https://github.com/blakejohns5)
 
 [![My Skills](https://skillicons.dev/icons?i=git,firebase,vite,figma)](https://github.com/blakejohns5)
 
