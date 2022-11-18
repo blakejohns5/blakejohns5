@@ -8,7 +8,7 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,styledcomponents,js,react,redux,php,laravel,mysql,nodejs,express,mongo,mongoose)](https://github.com/blakejohns5)
-[![My Skills](https://skillicons.dev/icons?i=git,firebase,vite,figma)](https://github.com/blakejohns5)
+[![My Skills](https://skillicons.dev/icons?i=git,firebase,vite,figma,linux)](https://github.com/blakejohns5)
 
 
 
@@ -17,6 +17,11 @@
 **Connect with me:**<br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blakejohns5/)
 
+<br>
+
+## Search Categories: &emsp;&emsp;&emsp;&emsp; <a href="https://github.com/stars/blakejohns5/lists/projects">![PROJECTS](https://img.shields.io/badge/-PROJECTS-brightgreen?style=for-the-badge&logoWidth=200)</a> &emsp;&emsp; <a href="https://github.com/stars/blakejohns5/lists/assembler">![Assembler](https://img.shields.io/badge/-Assembler%20Institute%20of%20Technology-red?style=for-the-badge&ogoWidth=600)</a> 
+
+<br>
 
 ## ⚡
 [![GitHub Streak](https://streak-stats.demolab.com?user=blakejohns5&theme=vue-dark&border_radius=3&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
