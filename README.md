@@ -1,4 +1,6 @@
 ## Hello, I'm Blake    <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="30px"><br> 
+<br><br>
+
 
 ### Languages and Tools:<br>
 
